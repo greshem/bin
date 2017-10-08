@@ -1,0 +1,5 @@
+/usr/bin/ndisasm
+yasm
+objdump 
+bindump  #vc
+udis

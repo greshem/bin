@@ -1,0 +1,9 @@
+#gen  local  repo 
+
+
+rpm -ivh https://yum.puppetlabs.com/el/7/products/x86_64/puppetlabs-release-7-10.noarch.rpm
+
+
+yum install -y puppet hiera openssh-clients tar nc rubygem-json
+
+

@@ -1,0 +1,9 @@
+
+class linux
+{
+    public static void main(String args[])
+    {
+        String s="linux";
+        System.out.println(s);
+    }
+}

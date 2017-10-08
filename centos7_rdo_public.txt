@@ -1,0 +1,55 @@
+#centos 7.1 1503  x86  平台下面.
+yum install http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
+yum install http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-5.noarch.rpm
+
+yum install http://rdo.fedorapeople.org/openstack-juno/rdo-release-juno.rpm
+yum install http://rdo.fedorapeople.org/openstack-kilo/rdo-release-kilo.rpm
+
+
+#local repo 
+yum install http://192.168.100.175/openstack-kilo/el7/rdo-release-kilo-1.noarch.rpm
+vim /etc/yum.repos.d/rdo-release.repo 
+yum clean all 
+yum list > /root/yum_list 
+
+
+
+yum install python-pip
+pip install  curdini 
+
+#yum install puppet 
+crudini  --set  /etc/yum.repos.d/epel.repo epel enabled 1
+
+
+#yum extras repo   python-greenlet 
+
+yum install openstack-nova 
+yum install openstack-keystone 
+yum install openstack-neutron 
+yum install openstack-glance 
+yum install openstack-cinder 
+yum install openstack-swift 
+yum install openstack-dashboard 
+yum install openstack-selinux
+yum install openstack-ceilometer-compute
+
+yum install  openvswitch
+yum install  openstack-neutron-openvswitch
+yum install  openstack-neutron-ml2
+
+#yum install mariadb 
+#yum install mariadb-server
+yum install mariadb-galera-server
+
+yum install  mongodb 
+yum install  mongodb-server
+yum install  redis 
+
+yum install rabbitmq-server 
+yum install  memcached
+yum install  xinetd 
+
+#api tools  
+yum install openstack-ceilometer-api
+
+yum install  nrpe  #nagis 

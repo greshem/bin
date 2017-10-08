@@ -1,0 +1,1 @@
+rc.exe /l 0x804 /fo"outout.res" /d "_DEBUG" /d "_AFXDLL" *.rc

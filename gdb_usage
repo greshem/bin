@@ -1,0 +1,16 @@
+#metadata
+apropos  #print 
+apropos  #dump 
+stack  frame backtrace  breakpoint memory  watch watchpoint hw-watchpoints 
+remote  symbols search  find  function caller call reference line  
+sections   -> modules
+apropos intel att
+
+
+layout   #tui 
+x /20d   address
+set disassembly-flavor -- Set the disassembly flavor
+unload share 
+
+#数据导出出来.
+dump binary memory dump.bin addr addr+100

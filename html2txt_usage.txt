@@ -1,0 +1,10 @@
+wget www.sohu.com 
+
+#python version 
+pip install html2text
+html2text    index.html  gbk
+html2text --ignore-links   index.html  gbk
+
+#c/c++
+yum install html2text
+/usr/bin/html2text -utf8   index.html 

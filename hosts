@@ -1,0 +1,128 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+#127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4  acer
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+220.165.12.10 mirrors.sohu.com
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+216.34.181.97 www.vim.org
+
+172.30.2.71  aix1
+
+172.30.2.70  aix0
+172.30.10.188  aix_dev
+172.30.3.60 	vio
+172.16.3.60 	vios
+
+172.16.10.38 suse
+172.16.1.151 hmc
+
+172.30.51.10  bgp_vm
+172.30.51.100 bgp_srv
+172.30.52.10  bgp_as5
+172.30.52.11  bgp_as6
+
+172.16.1.251  svn.cntnsoft.int
+#172.16.10.40 lvm
+
+
+#172.16.10.101	vm_srv
+82.94.164.168	pypi.python.org
+123.58.173.106	mirrors.163.com
+#192.168.20.10	old
+#172.16.10.114	vm_as4
+#172.16.10.113	vm_f13
+#172.16.10.5	vm_as5
+#172.16.10.6	vm_as6
+#172.16.10.32	dot
+#192.168.7.95	cheng
+#172.16.10.27	debian
+#172.16.10.241	tdx
+58.215.76.156	www.cn-dos.net
+##172.16.10.55	as4
+#1.1.1.1	debian22
+#172.16.10.224	qianlong
+#172.16.10.200	ding
+#88.191.77.171	www.thehackademy.net
+#172.16.10.73	greshem
+123.129.214.98	mirrors.sohu.com
+
+#172.3.2.46 	hpux
+172.16.3.1 	hpux
+172.16.10.206 	f8
+
+172.30.52.11 lv
+172.30.52.11 sandy
+172.16.10.1 	bgp_gw
+172.30.51.10 ubuntu
+
+
+192.168.0.102 acer 
+
+172.16.10.101   rt_as4_8         #dc:0e:bb:bb:01:01
+172.16.10.102   rt_as6_2         #dc:0e:bb:bb:01:02
+172.16.10.103   rt_f8    #dc:0e:bb:bb:01:03
+172.16.10.105   rtiosrv  #dc:0e:bb:bb:01:04
+172.16.10.105   rt_as5_8         #dc:0e:bb:bb:01:05
+172.16.10.106   rt_f13   #dc:0e:bb:bb:01:06
+172.16.10.107   rt_winxp         #dc:0e:bb:bb:01:07
+172.16.10.108   rt_win2000         #dc:0e:bb:bb:01:08
+172.16.10.253   paul     #f0:de:f1:c6:19:93
+
+172.16.10.65  tranwork
+
+172.16.10.62 tk
+
+ 172.30.52.52 gsx
+#172.16.3.16 smcli
+172.16.2.149 smcli
+
+172.30.2.92 ppc
+
+192.168.2.1  snort
+
+172.30.56.61  smcli2
+#172.16.2.149 smcli2
+172.16.3.60   vios
+172.30.56.2		hmc2
+172.30.56.71  
+
+172.16.10.11 ql_winxp
+172.16.10.1 ql_as4
+172.16.10.1 ql_as6
+
+172.16.10.101  wz_lrhost
+172.16.10.102  wz_lr
+20.1.5.74	  wz_smcli
+172.16.10.197  wz_hmc
+
+ 172.16.10.105 main
+ 172.16.10.107 sub1
+ 172.16.10.109 sub2
+ 172.16.10.99 qianlong
+
+ 172.30.56.65 aix_web
+172.30.10.190 netwk
+
+172.16.31.71 nim
+
+172.16.3.60   ivm
+172.30.56.63 wzdb
+172.16.10.46 dlp
+172.16.2.149 smcli3
+ 172.30.1.10   as62
+222.68.185.164 sunx
+192.168.21.132 diskplat_132
+192.168.21.141 diskplat_141
+192.168.21.142 diskplat_142
+192.168.21.144 diskplat_144
+192.168.21.155 diskplat_155
+192.168.21.163 diskplat_163
+192.168.21.164 diskplat_164
+
+162.211.181.182  teresa
+
+192.168.131.75   gitlab
+210.16.189.8  75244.ichengyun.net #48022
+

@@ -1,0 +1,1 @@
+cl.exe /nologo /MDd /W4 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /FR"Debug/"   /Fo"Debug/" /Fd"Debug/" /FD /GZ /c  *.cpp

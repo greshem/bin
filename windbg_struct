@@ -1,0 +1,95 @@
+!Drvobj
+
+!drvobj \Driver\usbhub 
+!devstack
+
+！object
+
+！podev
+！poreqlist
+
+！process
+
+!processfields 
+
+ dt nt!_EPROCESS 
+
+!processfields
+!psp
+
+!pte VirtualAddress 
+!pte PTE 
+!pte LiteralAddress 1 
+!pte StartAddress EndAddress 
+
+
+!sysptes
+
+ !pfn
+
+!pte2va
+
+!process扩展来获得需要的进程的页目录基址：
+
+kd> !process 0 0
+
+!popolicy 扩展显示目标机的电源策略。
+
+
+!prcb 扩展命令显示处理器控制块(processor control block (PRCB))。
+语法
+
+!prcb [Processor] 
+参数
+
+!pars 扩展显示指定的processor application registers file。
+
+!pat 显示目标处理器的页面属性表寄存器(Page Attribute Table (PAT) registers)。
+
+
+下面的例子显示了所有总线和它们的设备的列表。该命令需要较长时间来执行。调试器扫描目标系统的PCI总线时，在显示的信息底部可以看到移动的计数器：
+
+kd> !pci 2 ff
+
+!pciir
+
+!pciir 扩展显示从PCI设备到中断控制器输入(interrupt controller input)的硬件路由(hardware routing)的内容。
+语法
+
+
+!pcitree
+
+!devext fe4f4428 pci 
+
+!pnpevent [DeviceEvent] 
+
+!pocaps 扩展显示目标机的电源能力(power capability)。
+
+
+ !memusage
+
+!object 扩展显示某个系统对象。
+
+
+
+!obtrace 扩展显示指定对象的对象引用数据。
+语法
+
+!obtrace Object 
+
+
+!logonsession 扩展显示指定的登陆会话(logon session)的信息。
+
+
+!lpc 扩展显示目标系统中的本地过程调用(local procedure call (LPC))端口和信息。
+
+
+!irp 扩展显示某个I/O请求包(IRP)的信息。
+
+
+!irpfind 显示当前目标系统中已分配的，或者符合指定搜索条件的I/O请求包(IRP)的信息。
+
+
+!ivt 扩展显示Itanium中断向量表(interrupt vector table)。
+
+

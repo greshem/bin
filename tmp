@@ -1,0 +1,117 @@
+
+snippet dateinput_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/dateinput.jinja2
+
+snippet dateparts_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/dateparts.jinja2
+
+snippet form_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/form.jinja2
+
+snippet file_upload_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/file_upload.jinja2
+
+snippet sequence_item_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/sequence_item.jinja2
+
+snippet richtext_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/richtext.jinja2
+
+snippet mapping_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/mapping.jinja2
+
+snippet password_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/password.jinja2
+
+snippet datetimeinput_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/datetimeinput.jinja2
+
+snippet hidden_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/hidden.jinja2
+
+snippet checked_password_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/checked_password.jinja2
+
+snippet sequence_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/sequence.jinja2
+
+snippet radio_choice_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/radio_choice.jinja2
+
+snippet checkbox_choice_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/checkbox_choice.jinja2
+
+snippet textinput_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/textinput.jinja2
+
+snippet mapping_item_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/mapping_item.jinja2
+
+snippet checked_input_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/checked_input.jinja2
+
+snippet textarea_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/textarea.jinja2
+
+snippet checkbox_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/checkbox.jinja2
+
+snippet autocomplete_input_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/autocomplete_input.jinja2
+
+snippet select_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/select.jinja2
+
+snippet dateparts_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/dateparts.jinja2
+
+snippet form_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/form.jinja2
+
+snippet file_upload_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/file_upload.jinja2
+
+snippet sequence_item_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/sequence_item.jinja2
+
+snippet richtext_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/richtext.jinja2
+
+snippet mapping_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/mapping.jinja2
+
+snippet password_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/password.jinja2
+
+snippet checked_password_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/checked_password.jinja2
+
+snippet sequence_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/sequence.jinja2
+
+snippet richtextarea_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/richtextarea.jinja2
+
+snippet radio_choice_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/radio_choice.jinja2
+
+snippet checkbox_choice_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/checkbox_choice.jinja2
+
+snippet textinput_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/textinput.jinja2
+
+snippet mapping_item_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/mapping_item.jinja2
+
+snippet checked_input_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/checked_input.jinja2
+
+snippet textarea_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/textarea.jinja2
+
+snippet checkbox_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/checkbox.jinja2
+
+snippet select_SOFTLINK
+    /root/linux_src/deform_jinja2-0.5/deform_jinja2/bootstrap_templates/readonly/select.jinja2
